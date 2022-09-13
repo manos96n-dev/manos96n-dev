@@ -1,10 +1,10 @@
 Hi 👋 My name is Manos Nitis
 ============================
 
-Web developer
+Fullstack developer
 -------------
 
-* 🌍  I'm based in Greece
+* 🌍  I'm based in Greece, Crete
 
 <a href="https://www.github.com/manos96n-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manos96n-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
