@@ -6,7 +6,10 @@ Fullstack developer
 
 * 🌍  I'm based in Greece, Crete
 * 🤝  I'm open to collaborating on interesting projects
-* ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:manos1996n@gmail.com)
+
+Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:manos1996n@gmail.com)
 
 ### Skills
 
