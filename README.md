@@ -43,3 +43,5 @@ Fullstack developer
 <a href="https://github.com/manos96n-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manos96n-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:manos1996n@gmail.com)
