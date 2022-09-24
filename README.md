@@ -6,7 +6,7 @@ Fullstack developer
 
 * 🌍  I'm based in Greece, Crete
 * 🤝  I'm open to collaborating on interesting projects
-* ✉️  You can contact me at [manos96n@hotmail.com](mailto:manos96n@hotmail.com)
+* ✉️  You can contact me at [manos1996n@gmail.com](mailto:manos1996n@gmail.com)
 
 ### Skills
 
