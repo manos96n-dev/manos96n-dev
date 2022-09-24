@@ -41,7 +41,7 @@ Fullstack developer
 
 ### Badges
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manos96n-dev&theme=dark&show_icons=true)
 
 <a href="https://github.com/manos96n-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manos96n-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
