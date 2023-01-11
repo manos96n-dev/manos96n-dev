@@ -1,11 +1,11 @@
 Hi 👋 My name is Manos Nitis
 ============================
 
-Fullstack developer | Mobile developer
+Fullstack developer, Mobile developer
 -------------
 
 * 🌍  I'm based in Greece, Crete
-* 🤝  I'm open to collaborating on interesting projects as a fullstack developer | mobile developer
+* 🤝  I'm open to collaborating on interesting projects as a fullstack developer, mobile developer
 
 ### Contacts
 
