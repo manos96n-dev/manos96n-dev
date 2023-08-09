@@ -1,7 +1,7 @@
 Hi 👋 My name is Manos Nitis
 ============================
 
-Fullstack/Mobile developer
+Full-Stack | Mobile developer
 -------------
 
 * 🌍  I'm based in Greece, Crete
