@@ -43,5 +43,5 @@ Full-Stack | Mobile developer
 
 ### Badges
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manos96n-dev&theme=dark&show_icons=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manos96n-dev&theme=blue-green&show_icons=true&hide_border=true)
 
