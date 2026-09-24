@@ -9,7 +9,7 @@ Full-Stack | Mobile developer
 
 ### Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:manos1996n@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:info@manosnitis.com)
 
 ### Skills
 
